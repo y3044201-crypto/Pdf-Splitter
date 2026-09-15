@@ -1,0 +1,14 @@
+{
+  "name": "PDF TOOLS",
+  "short_name": "PDF TOOLS",
+  "description": "PDF tools for splitting, compressing and managing PDF files",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
